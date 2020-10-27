@@ -1,0 +1,3 @@
+npm install        // instalimi i node moduleve dhe dependencies.
+npm run backend    // startohet serveri
+
